@@ -13,7 +13,7 @@
   <img align="center" alt="Hitalo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Hitalo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Hitalo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="Hitalo-Gif" height="140" style="border-radius:70px;" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
+  <img align="right" alt="Hitalo-Gif" height="140" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
 </div>
   
   ##
