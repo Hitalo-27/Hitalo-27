@@ -1,4 +1,10 @@
 ## Eae! Eu sou o Hitalo!
+
+- 🔭 Procuro trabalhar como Full Stack
+- 🌱 Estudando React JS & Java
+- 📫 Contato: hytalosantos26@gmail.com
+- ⚡ Sempre disposto a aprender mais!
+
  <div>
   <a href="https://github.com/Hitalo-27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitalo-27&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
