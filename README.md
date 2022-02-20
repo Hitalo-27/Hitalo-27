@@ -23,7 +23,7 @@
   <img align="center" alt="Hitalo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Hitalo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    
-  <img align="right" alt="Hitalo-Gif" height="140" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif">
+  <img align="right" alt="Hitalo-Gif" height="140" src="https://data.whicdn.com/images/334202395/original.gif">
 </div>
   
   ##
