@@ -1,7 +1,7 @@
 ## Eae! Eu sou o Hitalo!
 
 - 🔭 Procuro trabalhar como Full Stack
-- 🌱 Estudando React JS & Java
+- 🌱 Cursando Ciências da Computação
 - 📫 Contato: hytalosantos26@gmail.com
 - ⚡ Sempre disposto a aprender mais!
 
