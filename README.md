@@ -22,6 +22,7 @@
   <img align="center" alt="Hitalo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Hitalo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Hitalo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hitalo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    
   <img align="right" alt="Hitalo-Gif" height="140" src="https://c.tenor.com/L2e3LM2K78YAAAAC/sawunn.gif">
 </div>
