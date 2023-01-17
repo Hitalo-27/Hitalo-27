@@ -1,4 +1,4 @@
-## Eae! Eu sou o Hitalo!
+<h1 align="center">Eae! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Hitalo!</h1>
 
 - 🔭 Estagiário Full Stack na Evve Comunicações 
 - 🌱 Cursando Ciências da Computação
