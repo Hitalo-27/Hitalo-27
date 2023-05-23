@@ -1,4 +1,4 @@
-<h1 align="center">Eae! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Hitalo!</h1>
+<h1 align="center">Eae! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px">, Eu sou o Hitalo!</h1>
 
 - 🔭 Estagiário Full Stack na Evve Comunicações 
 - 🌱 Cursando Ciências da Computação
@@ -32,9 +32,9 @@
   ##
   
  <div>
+  <a href="https://www.linkedin.com/in/hitalo-chaves-b473b5208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/hitalo_chaves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:hytalosantos26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hitalo-chaves-b473b5208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Hitalo-27/Hitalo-27/blob/output/github-contribution-grid-snake.svg)
  </div>
