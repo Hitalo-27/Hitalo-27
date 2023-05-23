@@ -1,6 +1,6 @@
 <h1 align="center">Eae! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px">, Eu sou o Hitalo!</h1>
 
-- 🔭 Estagiário Full Stack na Evve Comunicações 
+- 🔭 Estagiário Full Stack na Evve Comunicações e na Radar Consultas
 - 🌱 Cursando Ciências da Computação
 - 📫 Contato: hytalosantos26@gmail.com
 - ⚡ Sempre disposto a aprender mais!
