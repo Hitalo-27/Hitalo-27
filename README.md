@@ -1,9 +1,6 @@
-<h1 align="center">Eae! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30px">, Eu sou o Hitalo!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f2c9b&height=120&section=header"/>
 
-- 🔭 Estagiário Full Stack na Evve Comunicações e na Radar Consultas
-- 🌱 Cursando Ciências da Computação
-- 📫 Contato: hytalosantos26@gmail.com
-- ⚡ Sempre disposto a aprender mais!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f2c9b&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+repository!!;My+name+is+Hitalo+Chaves+dos+Santos;I'm+18+years+old;I'm+from+Brazil;and+I+love+to+code😁:%29)](https://git.io/typing-svg)
 
  <div>
   <a href="https://github.com/Hitalo-27">
@@ -37,4 +34,11 @@
    <a href = "mailto:hytalosantos26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Hitalo-27/Hitalo-27/blob/output/github-contribution-grid-snake.svg)
- </div>
+  
+</div>
+ <div align="center">
+ <br><p align="centre"><b>Visitors Count</b></p>  
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hitalo-27}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f2c9b&height=120&section=footer"/>
