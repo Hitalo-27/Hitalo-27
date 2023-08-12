@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f2c9b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f2c9b&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+repository!!;My+name+is+Hitalo+Chaves+dos+Santos;I'm+18+years+old;I'm+from+Brazil;and+I+love+to+code😁:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f2c9b&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+repository!!;My+name+is+Hitalo+Chaves+dos+Santos;I'm+19+years+old;I'm+from+Brazil;and+I+love+to+code😁:%29)](https://git.io/typing-svg)
 
  <div align="center"> 
   <a href="https://github.com/Hitalo-27">
