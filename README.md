@@ -8,20 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-27&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Hitalo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hitalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hitalo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hitalo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Hitalo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hitalo-expo" height="30" width="40" src="https://raw.githubusercontent.com/evve-comunicacao/.github/main/github_readme_images/expo.png">
-  <img align="center" alt="Hitalo-Twig" height="30" width="40" src="https://twig.symfony.com/images/logo.png">
-  <img align="center" alt="Hitalo-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Hitalo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Hitalo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Hitalo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Hitalo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Hitalo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hitalo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <div align="center" >
+     <a href="https://skillicons.dev"   >
+       <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,nodejs,tailwind,sass,styledcomponents,docker,github,linux,postman,bootstrap,mysql,py,php,spring,kotlin" />
+     </a>
    
   <img align="right" alt="Hitalo-Gif" height="140" src="https://c.tenor.com/L2e3LM2K78YAAAAC/sawunn.gif">
 </div>
