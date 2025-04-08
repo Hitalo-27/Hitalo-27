@@ -13,7 +13,7 @@
        <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,nodejs,tailwind,sass,styledcomponents,docker,github,linux,postman,bootstrap,mysql,py,php,spring,kotlin" />
      </a>
    
-  <img align="right" alt="Hitalo-Gif" height="140" src="https://c.tenor.com/L2e3LM2K78YAAAAC/sawunn.gif">
+  <img align="right" alt="Hitalo-Gif" height="140" src="https://i.gifer.com/BtKz.gif">
 </div>
   
   ##
