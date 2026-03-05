@@ -4,8 +4,8 @@
 
  <div align="center"> 
   <a href="https://github.com/Hitalo-27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalo-27&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-27&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hitalo-27&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Hitalo-27&show_icons=true&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
     <div align="center" >
@@ -37,7 +37,7 @@
 </div>
  <div align="center">
  <br><p align="centre"><b>Visitors Count</b></p>  
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hitalo-27}/count.svg" /></p> 
+ <p align="center"><img align="center" src="https://profile-counter.deno.dev/Hitalo-27/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f2c9b&height=120&section=footer"/>
