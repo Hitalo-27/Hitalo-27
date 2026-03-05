@@ -4,8 +4,9 @@
 
  <div align="center"> 
   <a href="https://github.com/Hitalo-27">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hitalo-27&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Hitalo-27&show_icons=true&theme=radical"/>
+  <img height="121em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hitalo-27&theme=radical"/>
+  <img height="121em" src="https://github-readme-stats-fast.vercel.app/api?username=Hitalo-27&show_icons=true&theme=radical"/>
+  <img height="121em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hitalo-27&layout=compact&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
     <div align="center" >
